@@ -1,7 +1,7 @@
 # (TianChi)Precision medical competition-Artificial Intelligence Aided genetic risk prediction of diabetes
 天池精准医疗大赛——人工智能辅助糖尿病遗传风险预测
 
-A competation in Tianchi platform about Precision medical treatment[kink](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231638)。
+A competation in Tianchi platform about Precision medical treatment [Link](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231638)。
 
 ## Code description
 
